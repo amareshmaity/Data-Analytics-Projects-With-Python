@@ -1,0 +1,5 @@
+# Ignore all virtual environment
+*_venv/     
+
+# Ignore Datasets
+Datasets
