@@ -90,12 +90,11 @@ This contains 3 .dat files -
 1. **Dataset Familiarization**
 
    * Load raw `.dat` files and inspect shapes.
-   * Identify missing values and convert timestamps.
+   * Identify missing values.
 
 2. **Data Cleaning & Transformation**
 
-   * Handle missing values.
-   * One-hot encode genres.
+   * Convert timestamps.
    * Filter out low-activity users/movies.
 
 3. **Automated Profiling**
